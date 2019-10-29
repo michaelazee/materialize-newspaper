@@ -20,6 +20,10 @@ h2 {
     font-family: "Didact Gothic", sans-serif;
     }
 
+.footer {
+background-color: #d4af37;
+}
+
 * {
   margin: 0;
   padding: 0;
