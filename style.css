@@ -24,6 +24,11 @@ h2 {
 background-color: #d4af37;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 * {
   margin: 0;
   padding: 0;
