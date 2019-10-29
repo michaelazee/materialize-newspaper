@@ -37,3 +37,8 @@ h2 {
 /* Desktop Styles */
 @media only screen and (min-width: 961px) {
 }
+
+  document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.sidenav');
+    var instances = M.Sidenav.init(elems, options);
+  });
