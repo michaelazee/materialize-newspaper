@@ -29,6 +29,10 @@ background-color: #d4af37;
   height: auto;
 }
 
+.underline-on-hover:hover {
+text-decoration: underline; 
+}
+
 * {
   margin: 0;
   padding: 0;
